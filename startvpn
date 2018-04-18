@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "vpn is running"
+sudo service openvpn start
